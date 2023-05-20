@@ -1,37 +1,12 @@
-# Data analytics project
-Projects in relation to solving data analysis task 
-Tasks: 
-1. What does the above data tell about Sales and Revenue 
-2. Dashboard for the above problem: 
-3. Revenue breakdown by cities (India) 
-4.Revenue Breakdown by Years and Months 
-5.Top 5 customers by revenue and sales quantity 
-6 Top 5 products by revenue number and sales quantity
+# Sales and Revenue Data Analysis Project
 
-Data Description: </br>
- The dataset is from an SQL database called “sales” ,dataset were queried from a database,cleaning and analysis were done using python.
-The database contains 5 Tables namely: Transactions, Dates, Customers, Products, Markets.  Tables were joined to form a single dataset that contains 1000 records 
- 
-Data Features: 
-1.	Product_code 
-2.	Customer_code 
-3.	Market_code 
-4.	Order_date 
-5.	Sales_qty 
-6.	Sales_amouunt 
-7.	Currency 
-8.	Markets 
-9.	Markets_name 
-10.	Zone 
-11.	Customer_name 
-12.	Customer_type 
-13.	Year 
-14.	Month_name 
-15.	Month_year 
-16.	Normalized_sales 
+This project involved analyzing sales and revenue data from an SQL database to provide insights and recommendations to the sales director. By conducting data preparation, cleaning, exploratory data analysis, and creating an interactive dashboard, valuable patterns and trends were uncovered. The dashboard provides visualizations of revenue breakdowns by cities and years, top customers, and top products. These insights can help optimize sales strategies, focus on growth areas, and enhance revenue and customer satisfaction.
 
-Aim: </br>
-1.Explore and analyze the data </br>
-2.Provide insights to sales director about data
+Project Dashboard: [Link to Dashboard](https://public.tableau.com/views/SprocketSales/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-## More about the data analytics process is covered on my article on medium ,the link below:
+Project Blog: [Link to Blog](https://your-blog-link)
+
+In the dashboard, stakeholders can interact with the visualizations to explore the sales and revenue data in an intuitive way. The project blog provides a detailed account of the project, including the methodology, findings, insights, and recommendations derived from the data analysis.
+
+This project is licensed under the [MIT License](LICENSE).
+
