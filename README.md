@@ -2,7 +2,7 @@
 
 This project involved analyzing sales and revenue data from an SQL database to provide insights and recommendations to the sales director. By conducting data preparation, cleaning, exploratory data analysis, and creating an interactive dashboard, valuable patterns and trends were uncovered. The dashboard provides visualizations of revenue breakdowns by cities and years, top customers, and top products. These insights can help optimize sales strategies, focus on growth areas, and enhance revenue and customer satisfaction.
 
-Project Dashboard: [Link to Dashboard](https://public.tableau.com/views/SprocketSales/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+Project Dashboard: [Link to Dashboard](https://public.tableau.com/app/profile/benedict.opuni.debrah/viz/SprocketSales/FinalDashboard)
 
 Project Blog: [Link to Blog](https://your-blog-link)
 
